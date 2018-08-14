@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MangalFabs</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="about"><![CDATA[Mangal Fabs is one of the leading and most promising manufactures, wholesalers and suppliers of an exclusive range of Clothing and Fabrics. Our range has received various appreciations from the clients for their fineness and durability. We work with an aim of achieving maximum client satisfaction, hence we leave no key unturned to meet each and every demand of our value clients. Our organization strictly follows the industrial norms and ethics to keep the products matched with the latest trend.  We have built a sophisticated and well equipped state-of-the-art infrastructure, which is installed with advanced machinery and equipment. This infrastructure is well segregated in various units. The segregated units comprise production unit, quality control unit, R&D unit, warehouse and packaging unit. Each and every unit is backed by efficient and dedicated workforce. This team of professionals is hired on the basis of their years of experience and domain expertise.  Under the leadership of our Manager, Mr. Abhay Jain, we have reached the heights of success and have become one of the leading manufacturers, wholesalers and suppliers of a wide range of clothing and fabrics. His vast industry experience and apt process knowledge has enabled us to achieve a huge client base across the nation. We have been successful in achieving maximum client satisfaction, which has enabled us to win the trust of our valued clients and develop a long term business relationship with them.]]></string>
+    <string name="about_title">ABOUT MANGAL FABS</string>
+    <string name="contact_des">Mangal Fabs welcomes your inquiry about any of our services or other resources. Your inquiry will be treated as confidential and will not be shared with any third party.</string>
+    <string name="signup">Sign Up</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="welcome">Welcome to MangalFabs</string>
+
+
+    <string-array name="category">
+
+        <!--<item>Choose category</item>-->
+        <item>Checks 44</item>
+        <item>Cross Chambray</item>
+        <item>Patchworks</item>
+        <item>Checks 58</item>
+        <item>High Quality Checks</item>
+        <item>Stripes 44</item>
+        <item>Stripes 58</item>
+        <item>High Quality Stripes</item>
+        <item>Twill 44</item>
+        <item>Twill 58</item>
+        <item>Multi dobby</item>
+        <item>Chambrays 44</item>
+        <item>Chambrays 58</item>
+        <item>Double Cloth</item>
+        <item>Lurex 44</item>
+        <item>Lurex 58</item>
+        <item>Lycra</item>
+        <item>Prints 44</item>
+        <item>Prints 54</item>
+        <item>Plains 58</item>
+        <item>Linen</item>
+
+
+    </string-array>
+
+
+    <string-array name="images">
+        <item>http://www.mangalfabs.com/ProductBigImage/2698.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2697.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2696.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2695.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2694.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2693.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2692.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2691.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2690.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2689.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2688.jpg</item>
+        <item>http://www.mangalfabs.com/ProductBigImage/2687.jpg</item>
+    </string-array>
+
+
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".dashboard.category.addcategory.AddCategoryFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="start"
+            android:text="Send us a message:"
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/_16sdp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:gravity="start"
+            android:lineSpacingExtra="@dimen/_1sdp"
+            android:text="Thank you for your interest in Mangal Fabrics. Please complete the form below and let us know how we can help you."
+            android:textColor="@color/colorPrimary"
+            android:textSize="@dimen/_10sdp"
+            android:textStyle="normal" />
+
+        <android.support.v7.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:gravity="start"
+            android:hint="Name *"
+            android:inputType="text"
+            android:minHeight="@dimen/_40sdp"
+            android:padding="@dimen/_10sdp" />
+
+        <android.support.v7.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:gravity="start"
+            android:hint="Email *"
+            android:inputType="textEmailAddress"
+            android:minHeight="@dimen/_40sdp"
+            android:padding="@dimen/_10sdp" />
+
+        <android.support.v7.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:gravity="start"
+            android:hint="Contact Number *"
+            android:inputType="text"
+            android:minHeight="@dimen/_40sdp"
+            android:padding="@dimen/_10sdp" />
+
+        <android.support.v7.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:gravity="start"
+            android:hint="Address"
+            android:inputType="text"
+            android:minHeight="@dimen/_40sdp"
+            android:padding="@dimen/_10sdp" />
+
+        <android.support.v7.widget.AppCompatEditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_100sdp"
+            android:layout_marginTop="@dimen/_16sdp"
+            android:gravity="start"
+            android:hint="Comments *"
+            android:inputType="text"
+            android:minHeight="@dimen/_40sdp"
+            android:padding="@dimen/_10sdp" />
+
+        <LinearLayout
+
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_10sdp"
+            android:orientation="horizontal">
+
+            <bingoyo.com.mangalfabs.customview.DrawableButtonColor
+                android:id="@+id/login"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_rect_login_view"
+                android:elevation="10dp"
+                android:paddingLeft="@dimen/_16sdp"
+                android:paddingRight="@dimen/_16sdp"
+                android:text="Submit"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                app:drawableColor="@color/colorPrimary" />
+
+            <View
+                android:layout_width="@dimen/_10sdp"
+                android:layout_height="match_parent" />
+
+            <bingoyo.com.mangalfabs.customview.DrawableButtonColor
+                android:id="@+id/reset"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/round_rect_login_view"
+                android:elevation="10dp"
+                android:paddingLeft="@dimen/_16sdp"
+                android:paddingRight="@dimen/_16sdp"
+                android:text="Cancel"
+                android:textAllCaps="false"
+                android:textColor="@color/white"
+                app:drawableColor="@android:color/holo_red_light" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+</ScrollView>

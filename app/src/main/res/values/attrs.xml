@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="DrawableButtonColor">
+        <attr name="drawableColor" format="color" />
+        <!--<attr name="shape" format="string" />-->
+        <!--<attr name="radius" format="integer" />-->
+        <!--<attr name="w" format="integer" />-->
+        <!--<attr name="h" format="integer" />-->
+    </declare-styleable>
+
+
+</resources>

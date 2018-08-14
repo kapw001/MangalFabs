@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <!--<color name="colorAccent">#FF4081</color> -->
+
+    <color name="colorPrimary">#3f4168</color>
+    <color name="colorPrimaryDark">#151b3d</color>
+    <color name="colorAccent">#3f4168</color>
+
+
+    <color name="yellow">#F8AD1C</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <!--<color name="startGradientColor">#7d82e1</color>-->
+    <!--<color name="endGradientColor">#151b3d</color>-->
+
+    <color name="startGradientColor">#767799</color>
+    <color name="endGradientColor">#151b3d</color>
+
+
+    <color name="dash1">#D1512F</color>
+    <color name="dash2">#00AEEF</color>
+    <color name="dash3">#3B77B5</color>
+    <color name="dash4">#BF5C96</color>
+    <color name="dash5">#E39B35</color>
+    <color name="dash6">#CD4342</color>
+
+    <color name="list_selected">@color/colorPrimary</color>
+</resources>
